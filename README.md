@@ -10,7 +10,7 @@
 `npm i gulp@4.0.0-alpha.2`
 
 
-![Screenshot.png](img src="docs/Screenshot.png" width="250")
+![Screenshot.png](docs/Screenshot.png width="250")
 
 
 ## 📄 License
