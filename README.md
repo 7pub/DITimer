@@ -1,4 +1,4 @@
-<p align = "right"><a href="[https://7pub.github.io/timer-webapp/app/](https://7pub.github.io/notimetoexplain/app/)">>> Webapp &ouml;ffnen</a></p>
+<p align = "right"><a href="https://7pub.github.io/Notime2explaiN/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
 
 # NoTimeToExplain
