@@ -1,7 +1,4 @@
----
----
-
-# Timer/Stopuhr
+# NoTimeToExplain - Timer/Stopuhr
 
 ---
 
