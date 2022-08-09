@@ -15,11 +15,19 @@ Timer -drehen- Stopuhr -drehen- Timer -drehen- Stopuhr
 
 ## Install
 
-`npm i gulp@4.0.0-alpha.2` 
-  
 `git clone https://7pub.github.io/notime2explain.git`
 
-<img src="./docs/nt2e_install.gif" style="width:50%" />
+`cd notime2explain`
+
+`npm i gulp@4.0.0 --save-dev`
+
+`yarn`
+
+`npm run serve`
+
+
+<img src="./docs/nt2e_install.gif" style="width:70%" />
+
 ---
 
 ## 📄 License
