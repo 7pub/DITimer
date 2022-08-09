@@ -1,6 +1,6 @@
-# NoTimeToExplain - Timer/Stopuhr
+<span style="align: right"><a href="https://7pub.github.io/timer-webapp/app/">Timer Webapp ouml;ffnen</a>
 
-https://7pub.github.io/timer-webapp/app/
+# NoTimeToExplain - Timer/Stopuhr
 
 ---
 
