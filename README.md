@@ -1,4 +1,4 @@
-<spanp align = "right"><a href="https://7pub.github.io/timer-webapp/app/">Timer Webapp &ouml;ffnen</a></span>
+<span align = "right"><a href="https://7pub.github.io/timer-webapp/app/">Timer Webapp &ouml;ffnen</a></span>
 
 # NoTimeToExplain - Timer/Stopuhr
 
