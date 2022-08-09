@@ -1,4 +1,4 @@
-<p align = "right"><a href="https://7pub.github.io/Notime2explaiN/app/">>> Webapp &ouml;ffnen</a></p>
+<p align = "right"><a href="https://7pub.github.io/notime2explain/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
 
 # NoTimeToExplain
@@ -9,14 +9,14 @@
 
 Timer -drehen- Stopuhr -drehen- Timer -drehen- Stopuhr
 
-<a href="https://7pub.github.io/notimetoexplain/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
+<a href="https://7pub.github.io/notime2explain/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
 
 ---
 
 ## Install
 
   `npm i gulp@4.0.0-alpha.2`
-  `git clone https://7pub.github.io/notimetoexplain.git`
+  `git clone https://7pub.github.io/notime2explain.git`
 
 ---
 
