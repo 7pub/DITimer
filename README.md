@@ -11,12 +11,7 @@
 
 ![]()
 
-Here is an image of tree: 
-![alt text][/docs/Screenshot.png]{height=40px width=50px}
-
-
-[//./docs/Screenshot.png]: # (./docs/Screenshot.png)
-[./docs/Screenshot.png]:  "Screenshot"
+![Screenshot]('./docs/Screenshot.png'){width=250px}
 
 ## 📄 License
 
