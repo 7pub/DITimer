@@ -9,8 +9,14 @@
 
 `npm i gulp@4.0.0-alpha.2`
 
-![Screenshot.png](docs/Screenshot.png){:height="36px" width="36px"}.
+![]()
 
+Here is an image of tree: 
+![alt text][tree]{height=40px width=50px}
+
+
+[//]: # (Image References)
+[Screenshot.png]: ./docs/Screenshot.png "Screenshot"
 
 ## 📄 License
 
