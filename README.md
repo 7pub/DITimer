@@ -16,7 +16,7 @@ Timer -drehen- Stopuhr -drehen- Timer -drehen- Stopuhr
 ## Install
 
 `npm i gulp@4.0.0-alpha.2`
-`gitclone https://7pub.github.io/notimetoexplain.git
+`gitclone https://7pub.github.io/notimetoexplain.git`
 
 ---
 
