@@ -7,10 +7,10 @@
 
 ## Install
 
-``npm i gulp@4.0.0-alpha.2``
+`npm i gulp@4.0.0-alpha.2`
 
 
-![Screenshot.png](docs/Screenshot.png)
+![Screenshot.png](docs/Screenshot.png 100x20)
 
 
 ## 📄 License
