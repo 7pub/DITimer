@@ -1,22 +1,44 @@
-== timer-webapp
+```Stop Font
 
-image:https://github.com/7pub/timer-webapp/workflows/Build%20&%20Deploy/badge.svg[Build
-& Deploy, link="https://github.com/7pub/timer-webapp/actions"]
+ ________  _     ______ _                
+(_______/ | |   / _____) |          _    
+   ____    \ \ | /     | | _   ____| |_  
+  (___ \    \ \| |     | || \ / _  |  _) 
+ _____) )____) ) \_____| | | ( ( | | |__ 
+(______(______/ \______)_| |_|\_||_|\___)
+                                         
 
-image:https://img.shields.io/lgtm/grade/javascript/github/7pub/timer-webapp[LGTM
-Grade, link="https://lgtm.com/projects/g/7pub/timer-webapp"]
+```
 
-=== Demo
-https://7pub.github.io/timer-webapp
 
-=== Screenshot
-image:docs/Screenshot.png[width=100%, link="https://7pub.github.io/timer-webapp"]
 
-=== Docker Instructions
+## ``Matchmaking``
 
-    # initial setup
-    docker build -t 7pub/timer-webapp https://github.com/7pub/timer-webapp.git
-    # start the service
-    docker run --rm -p 8080:80 7pub/timer-webapp
-    # open the app in your browser
-    xdg-open "http://localhost:8080"
+Drei Secure Chat [3SC] ist für die eine Besondere Mitteilung. 
+Sie können keine Verbindung zu Ihren vorhandenen Konten wie Google Microsoft iCloud u.a. herstellen. [3SC] verzichtet bewusst auf Hochverfügbarkeit. Die Anwendung wird nicht zentral Bereitgestellt. Es gib keine Anmeldefunktion und keine Authentifizierung.  Erstellen oder für zusätzliche Sicherheit sogar eine Verbindung zu Ihrem eigenen Server herstellen.
+
+
+### ``IP Validation``
+
+We need to check if the IP we find is not just the current IP and not
+a public WAF service.
+
+
+### ``Subdomain Gathering``
+
+## Subdomains can point to origin IP's behind the firewall (WAF)
+
+---
+
+
+## 📄 License
+
+| DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE |
+---
+| MACHEN DAMIT WAS VERDAMMT NOCHMAL DU AUCH IMMER MIT DIESER ÖFFENTLICHE LIZENZ MACHEN WILST |
+
+| | Version.02  |
+|- | -|
+| Copyright (C) 2019 Karl Achleitner theorem.system@protonmail.com |![Crown](https://7pub.github.io/_site/license/WTFPL/wtfpl-badge-4.png) |
+  > Weitere Informationen finden Sie unter [http://unlicense.org](http://unlicense.org)
+  ---
