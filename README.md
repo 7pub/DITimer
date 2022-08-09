@@ -1,5 +1,4 @@
-<span style="widht:100%; align:right"><a href="https://7pub.github.io/timer-webapp/app/">Timer Webapp &ouml;ffnen</a></span>
-<p align = "right">Nun bin ich rechtsbündig.</p>
+<spanp align = "right"><a href="https://7pub.github.io/timer-webapp/app/">Timer Webapp &ouml;ffnen</a></span>
 
 # NoTimeToExplain - Timer/Stopuhr
 
