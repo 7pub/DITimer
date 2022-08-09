@@ -1,5 +1,6 @@
 <p align = "right"><a href="https://7pub.github.io/timer-webapp/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
+
 # NoTimeToExplain - Timer/Stopuhr
 
 ---
@@ -10,7 +11,7 @@
 
 ![]()
 
-![Screenshot](./docs/NoTimeToExplain.gif){width=50px}
+<a href="https://7pub.github.io/timer-webapp/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
 
 ## 📄 License
 
