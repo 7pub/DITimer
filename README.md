@@ -1,7 +1,15 @@
 <p align = "right"><a href="https://7pub.github.io/timer-webapp/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
 
-# NoTimeToExplain - Timer/Stopuhr
+# NoTimeToExplain
+
+---
+
+## Einfach, schnell und unkompliziert.
+
+Timer <drehen> Stopuhr <drehen> Timer <drehen> Stopuhr
+
+<a href="https://7pub.github.io/timer-webapp/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
 
 ---
 
@@ -9,9 +17,7 @@
 
 `npm i gulp@4.0.0-alpha.2`
 
-![]()
-
-<a href="https://7pub.github.io/timer-webapp/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
+---
 
 ## 📄 License
 
