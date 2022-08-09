@@ -11,7 +11,7 @@
 
 ![]()
 
-![Screenshot]('./docs/Screenshot.png'){width=250px}
+![Screenshot](./docs/NoTimeToExplain.gif){width=50px}
 
 ## 📄 License
 
