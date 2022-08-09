@@ -9,8 +9,7 @@
 
 `npm i gulp@4.0.0-alpha.2`
 
-
-![Screenshot.png](docs/Screenshot.png)
+![Screenshot.png](docs/Screenshot.png){:height="36px" width="36px"}.
 
 
 ## 📄 License
