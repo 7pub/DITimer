@@ -1,5 +1,5 @@
 <p align = "right"><a href="https://7pub.github.io/timer-webapp/app/">>> Webapp &ouml;ffnen</a></p>
-
+<hr/>
 # NoTimeToExplain - Timer/Stopuhr
 
 ---
