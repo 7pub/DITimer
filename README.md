@@ -1,4 +1,4 @@
-<p align = "right"><a href="https://7pub.github.io/timer-webapp/app/">>> Webapp &ouml;ffnen</a></p>
+<p align = "right"><a href="[https://7pub.github.io/timer-webapp/app/](https://7pub.github.io/notimetoexplain/app/)">>> Webapp &ouml;ffnen</a></p>
 <hr/>
 
 # NoTimeToExplain
@@ -7,15 +7,16 @@
 
 ## Einfach, schnell und unkompliziert.
 
-Timer <drehen> Stopuhr <drehen> Timer <drehen> Stopuhr
+Timer -drehen- Stopuhr -drehen- Timer -drehen- Stopuhr
 
-<a href="https://7pub.github.io/timer-webapp/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
+<a href="https://7pub.github.io/notimetoexplain/app/"><img src="./docs/NoTimeToExplain.gif" style="width:50%" /></a>
 
 ---
 
 ## Install
 
 `npm i gulp@4.0.0-alpha.2`
+`gitclone https://7pub.github.io/notimetoexplain.git
 
 ---
 
