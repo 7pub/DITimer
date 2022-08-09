@@ -12,7 +12,7 @@
 ![]()
 
 Here is an image of tree: 
-![alt text][/docs/Screenshot.png]{height=40px width=50px}
+![alt text][//./docs/Screenshot.png]{height=40px width=50px}
 
 
 [//./docs/Screenshot.png]: # (./docs/Screenshot.png)
