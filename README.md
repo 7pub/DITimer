@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Opening Multiple Popup Windows</title>
-<script language="javascript">
+<title>Opening Multiple Popup Windows</title><script language="javascript">
 <!--//
 function myPopup(url,windowname,w,h,x,y){
 window.open(url,windowname,"resizable=no,toolbar=no,scrollbars=no,menubar=no,status=no,directories=n o,width="+w+",height="+h+",left="+x+",top="+y+"");
