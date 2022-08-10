@@ -7,11 +7,25 @@
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
+  
 </section>
+<section align="right">
 
-<p align = "right"><a href="https://7pub.github.io/timeroll/app/">[https://img.shields.io/badge/Open-Webapp-blue](https://img.shields.io/badge/Open-Webapp-blue)</a></p>
+  [https://img.shields.io/badge/Open-Webapp-blue](https://img.shields.io/badge/Open-Webapp-blue)
+
+</section>
+<p align = "right">
+  <a href="https://7pub.github.io/timeroll/app/">
+  
+  [https://img.shields.io/badge/Open-Webapp-blue](https://img.shields.io/badge/Open-Webapp-blue)
+  
+  </a>
+</p>
+
 <hr/>
+
 https://img.shields.io/badge/Open-Webapp-blue
+
 ---
 
 ## Install
