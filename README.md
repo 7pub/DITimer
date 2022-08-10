@@ -1,15 +1,8 @@
-<html>
-<head>
-<title>Opening Multiple Popup Windows</title>
-<script language="javascript">
-function myPopup(url,windowname,w,h,x,y){
-window.open(url,windowname,"resizable=no,toolbar=no,scrollbars=no,menubar=no,status=no,directories=n o,width="+w+",height="+h+",left="+x+",top="+y+"");
-console.log("Opening: " + windowname);
-}
-</script>
-</head>
-<body>
-
+<!DOCTYPE html>
+<html><head><title>Opening Multiple Popup Windows</title> <script language="javascript"> function myPopup(url,windowname,w,h,x,y){ window.open(url,windowname,"resizable=no,toolbar=no,scrollbars=no,menubar=no,status=no,directories=n o,width="+w+",height="+h+",left="+x+",top="+y+""); console.log("Opening: " + windowname); } </script> </head> <body>
+ 
+  
+  
 <section align="right">
 
 [![](https://img.shields.io/badge/github&nbsp;profile-grey?style=for-the-badge)](https://github.com/7pub/)
