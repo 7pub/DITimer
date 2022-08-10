@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/Open-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/index.html/)
+[![](https://img.shields.io/badge/Open-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)
+[![](https://7pub.github.io/timeroll/)](https://7pub.github.io/timeroll/docs/notime2explain.gif/)
 
   
 <section align="right">
