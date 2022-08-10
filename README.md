@@ -1,7 +1,8 @@
 <script type="text/javascript">
 function open(url){
 var popup=window.open(url,"_blank","width=200,height=200");
-popup.location=URL;}</script>
+popup.location=URL;}
+</script>
 
 <p><a href="#" onclick="open('http://www.google.com')">google search</a></p>
 
