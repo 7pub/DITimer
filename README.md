@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Opening Multiple Popup Windows</title>
+
 <script language="javascript">
 
 <!--//
