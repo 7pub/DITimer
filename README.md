@@ -1,11 +1,11 @@
 
-<style>
-
-  background-color: #e6e6e6;    border-radius: 2px; padding: 0.05rem 0.2rem;
-
-  tr:nth-child(even) { background-color: #b2b2b2 !important; color: #f4f4f4 !important; }
-  
-</style>
+<section align="right">
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+</section>
 
 <p align = "right"><a href="https://7pub.github.io/notime2explain/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
