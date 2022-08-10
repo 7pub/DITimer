@@ -1,11 +1,9 @@
+
 <style>
 
-  background-color: #e6e6e6; border-radius: 2px; padding: 0.05rem 0.2rem; 
+  background-color: #e6e6e6;    border-radius: 2px; padding: 0.05rem 0.2rem;
 
-  tr:nth-child(even) {
-  background-color: #b2b2b2!important;
-  color: #f4f4f4!important;
-}
+  tr:nth-child(even) { background-color: #b2b2b2 !important; color: #f4f4f4 !important; }
   
 </style>
 
