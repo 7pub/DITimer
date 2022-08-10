@@ -15,8 +15,6 @@
     "nvm": "^0.0.4",
     "progressbar.js": "^1.0.1",
     
-
-
   },
   "devDependencies": {
     "brfs": "^2.0.2",
