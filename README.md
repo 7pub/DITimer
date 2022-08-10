@@ -1,3 +1,16 @@
+<html>
+<head>
+<title>Opening Multiple Popup Windows</title>
+<script language="javascript">
+<!--//
+function myPopup(url,windowname,w,h,x,y){
+window.open(url,windowname,"resizable=no,toolbar=no,scrollbars=no,menubar=no,status=no,directories=n o,width="+w+",height="+h+",left="+x+",top="+y+"");
+console.log("Opening: " + windowname);
+}
+//-->
+</script>
+</head>
+<body>
 
 <section align="right">
 
@@ -58,50 +71,12 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 ---
 
-<center>
-
-````
-
-                   ,,:cc$$$$$$$$$$$Cccc
-               ,,c$$$$$$$$$$$$$$$$$$$$$Cc
-             ,c$$$$$$$$$$$$$$$$$$$$$$$$$$ßc
-          ,c$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ßc
-        ,d$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ßc
-       ,$$$$$$$d$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Cc
-      ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ß
-      J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$;
-      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$;
-      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$d$$$$$$$;
-      `$$$$$$$$`nnn'$$$$$$$$$$$$$$$",d$ $$$$$$;
-        `$$$$$$$ MMMM`$$$$$$$$$$$$F,MMMb`$$$$$$
-         `$$$$$$ MTTM.?$$$$$$$$$$$,MMMMM $$$$$;
-          `$$$$$$     `$$$$$$$$$$$,      $$$$$$
-            ?$$$$$,( `) $$$$$$$$$$ ,;`)  $$$$$;
-              ?$$$$,(&) $$$$$$$$$$ (&; ) $$$$$;
-               `$$$$.`-; $$$$$$$$$$,`--;,$$$$;
-              $$$$$hh$$$$$????$$$hc$$$$$$$$$$;
-              $$$$$$$$$$$$ `======; $$$$$$$$$$;
-              `$$$$$$$$$$$$$c,,,,c$$$$$$$$$$$;
-               "*$$$$P"" "$$$$$$?????$$??"
-          Oh my goodness... $$$$$ 
-                            $$$$$\
-                          ,$$$$$$$\
-                         $$$$$$$$$$$
-                        $$$$$$$$$$$$$
-                        $$$$$$$$$$$$$$
-                        $$$$$$$$$$$$$$$
-                        $$$$$$$$$$$$$$$
-                         $$$$$$$$$$$$$$
-                         `$$$$$$$$$$F
-                          `CCC´ `CC$
-                           CCC   CCC
-     ,;CCCC;,,             CCC   CCCC
-    CCCCCCCCCCCCCCCCCCCCCCCCCC   `CCCCCCCCCCCCC.,,,,,;CCCC;,,
-    CCCCCCCCCCCCCCCCCCCCCCCC/     `CCCCCCCCCCCCCCCCCCCCCCCCCC
-     CCCCCCCCCCCCCCCCCCCCCC;       `CCCCCCCCCCCCCCCCCCCCCCCCc
-      *CCC<a href="http://7pub.github.io/RESTful/"></a>cCCC°
-```
-
-</center>
-
-----
+<!-- Inside the parenthesis the order goes URL, window name, width, height, position from left, position from top-->
+<!-- Note that by giving each popup window a different name each page will open in a seperate popup window-->
+<a href="javascript:myPopup('http://www.cnn.com', 'CNN','300','300','10','300')">Open popup 1</a>
+<br>
+<a href="javascript:myPopup('http://example.com', 'Example.com','300','300','100','300')">Open popup 2</a>
+<br>
+<a href="javascript:myPopup('http://www.nbc.com', 'NBC','300','300','200','500')">Open popup 3</a>
+</body>
+</html>
