@@ -1,3 +1,7 @@
+background-color: #e6e6e6;
+border-radius: 2px;
+padding: 0.05rem 0.2rem;
+
 <p align = "right"><a href="https://7pub.github.io/notime2explain/app/">>> Webapp &ouml;ffnen</a></p>
 <hr/>
 
