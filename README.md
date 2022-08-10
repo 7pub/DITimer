@@ -1,7 +1,7 @@
 
 <section align="right">
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/7pub/)
+[![](https://img.shields.io/badge/github&nbsp;profile-grey?style=for-the-badge)](https://github.com/7pub/)
 [![](https://img.shields.io/badge/Docker-blue?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
