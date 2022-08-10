@@ -1,6 +1,8 @@
 <section align="left">
 
-[![](https://img.shields.io/badge/Open-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
+[![](https://img.shields.io/badge/Open-{Webapp}-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
+[![](https://img.shields.io/badge/View-{Repospository}-white?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)
+
 [![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
 
 </section>
@@ -12,13 +14,12 @@
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
-
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](//7pub/)
 </section>
 
 <section align="right">
 
 [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
-[![](https://img.shields.io/badge/Repospository-lightyellow?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)
 
 
 </section>
