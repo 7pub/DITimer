@@ -15,12 +15,9 @@
 
 </section>
 
+
 <p align = "right">
-  <a href="https://7pub.github.io/timeroll/app/">
-  
-  [https://img.shields.io/badge/Open-Webapp-blue](https://img.shields.io/badge/Open-Webapp-blue)
-  
-  </a>
+  <a href="https://7pub.github.io/timeroll/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
 </p>
 
 <hr/>
