@@ -9,9 +9,9 @@
 
 </section>
 
-<p align = "right"><a href="https://img.shields.io/badge/Open-Webapp-blue">>> Webapp &ouml;ffnen</a></p>
+<p align = "right"><a href="https://7pub.github.io/timeroll/app/">[https://img.shields.io/badge/Open-Webapp-blue](https://img.shields.io/badge/Open-Webapp-blue)</a></p>
 <hr/>
-
+https://img.shields.io/badge/Open-Webapp-blue
 ---
 
 ## Install
