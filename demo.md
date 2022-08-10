@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://7pub.github.io/timeroll/this.web/template/prism-tomorrow.css" />
+<link rel="stylesheet" type="text/css" href="https://7pub.github.io/timeroll/this.web/template/prismjs%401.6.0/prism-tomorrow.css" />
 <link rel="stylesheet" type="text/css" href="https://7pub.github.io/timeroll/this.web/template/demo.css" />
 
 # Actually render your code blocks
@@ -38,6 +38,6 @@ Isn't that
 
 Yes.
 
-<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-<script src="https://unpkg.com/react@15.6.1/dist/react.min.js"></script>
-<script src="https://unpkg.com/react-dom@15.6.1/dist/react-dom.min.js"></script>
+<script src="https://7pub.github.io/timeroll/this.web/template/babel-standalone@6.26.0/babel.min.js"></script>
+<script src="https://7pub.github.io/timeroll/this.web/template/react@15.6.1/react.min.js"></script>
+<script src="https://7pub.github.io/timeroll/this.web/template/react-dom@15.6.1/react-dom.min.js"></script>
