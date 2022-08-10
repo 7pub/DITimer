@@ -1,6 +1,9 @@
-[![](https://img.shields.io/badge/Open-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app)
-[![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app)
+<section align="left">
 
+[![] (https://img.shields.io/badge/Open-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
+[![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
+
+</section>
   
 <section align="right">
 
