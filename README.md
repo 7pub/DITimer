@@ -18,7 +18,7 @@
 <section align="right">
 
 [![](https://img.shields.io/badge/Open-Webapp-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
-[![](https://img.shields.io/badge/timeroll repo--lightyellow?style=for-the-badge)](https://7pub.github.io/timeroll/index.html/)
+[![](https://img.shields.io/badge/Repospository-lightyellow?style=for-the-badge)](https://7pub.github.io/timeroll/index.html/)
 
 
 </section>
