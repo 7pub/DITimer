@@ -1,7 +1,7 @@
 <section align="left">
 
-[![](https://img.shields.io/badge/Open-{Webapp}-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
-[![](https://img.shields.io/badge/View-{Repospository}-white?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)
+[![](https://img.shields.io/badge/Open-{Webapp}-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)&nbsp;&nbsp;&nbsp;
+[![](https://img.shields.io/badge/View-{Repospository}-F1F1F1?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)
 
 [![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
 
