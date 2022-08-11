@@ -9,7 +9,8 @@
 
 </section>
 
-  
+
+
 <section align="right">
 
 [![](https://img.shields.io/badge/github&nbsp;profile-grey?style=for-the-badge)](https://github.com/7pub/)
