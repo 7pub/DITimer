@@ -1,4 +1,4 @@
-<p><a href="#" onclick="open('http://www.google.com')">google search</a></p>
+<!--p><a href="#" onclick="open('http://www.google.com')">google search</a></p-->
 
 <section align="left">
 
