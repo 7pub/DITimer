@@ -67,7 +67,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 | | Version.02  |
 |- | -|
-| Copyright (C) 2019 Karl Achleitner theorem.system@protonmail.com |![Crown](https://7pub.github.io/_site/license/WTFPL/wtfpl-badge-4.png) |
+| Copyright (C) 2019 Karl Achleitner theorem.system@protonmail.com |![Crown]https://vscode.dev/github/7pub/cdn-gw/blob/f2ead5bd191b4feed3985e93b247f8e61072023f/img/WTFPL/wtfpl-badge-1.png) |
   > Weitere Informationen finden Sie unter [http://unlicense.org](http://unlicense.org)
 
 ---
