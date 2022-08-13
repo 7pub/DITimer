@@ -15,8 +15,9 @@
  <img src="./docs/nt2e_install.gif" style="width:100%" />
 </p>
 
+<!--
 https://img.shields.io/badge/Open-Webapp-blue
-
+-->
 
 <section align="right">
 
@@ -28,10 +29,11 @@ https://img.shields.io/badge/Open-Webapp-blue
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](//github.com/7pub)
 </section>
 
+---
+
 <section align="right">
 
 [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
-
 
 </section>
 
