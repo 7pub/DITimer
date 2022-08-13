@@ -1,9 +1,6 @@
----
----
-
-
-````
-
+```
+```
+```
                    ,,:cc$$$$$$$$$$$Cccc
                ,,c$$$$$$$$$$$$$$$$$$$$$Cc
              ,c$$$$$$$$$$$$$$$$$$$$$$$$$$ßc
@@ -43,5 +40,4 @@
      CCCCCCCCCCCCCCCCCCCCCC;       `CCCCCCCCCCCCCCCCCCCCCCCCc
       *CCC<a href="http://7pub.github.io/RESTful/"></a>cCCC°
 ```
-
-----
+```
