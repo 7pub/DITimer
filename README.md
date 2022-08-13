@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/Show-{&Uuml;bersicht}-grren?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)&nbsp;&nbsp;&nbsp;
 [![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
 
+<section align="right">  [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/) </section>
+
 <p align = "right">
   <a href="https://7pub.github.io/timeroll/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
 </p>
@@ -45,13 +47,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 ---
 
-<section align="right">
-
-[![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
-
-</section>
-
----
+<section align="right">  [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/) </section>
 
 ## Install
 
