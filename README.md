@@ -6,9 +6,9 @@
 -->
 <section align="right">
   
-  [![](https://img.shields.io/badge/github&nbsp;profile-grey?style=for-the-badge)](https://github.com/7pub/)
-  [![](https://img.shields.io/badge/Docker-blue?style=for-the-badge)](https://github.com/7pub/timeroll/tree/main/docker/)
-  [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
+  [![](https://img.shields.io/badge/Profile&nbsp;-D5D5D5?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/7pub/)
+  [![](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=000000)](https://github.com/7pub/timeroll/tree/main/docker/)
+  [![](https://img.shields.io/badge/WebApp-lightgrey?style=for-the-badge&logo=html5&logoColor=000000)](https://7pub.github.io/timeroll/app/)
   [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
 </section>
 <!--
