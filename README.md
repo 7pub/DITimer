@@ -40,7 +40,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 #
 
-## [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
 
 _Step 1._ `git clone https://7pub.github.io/DITimer.git`<br>
 _Step 2._ `cd notime2explain`<br>
