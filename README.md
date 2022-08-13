@@ -7,6 +7,8 @@
 </section>
  </p>
 
+<img src="./docs/nt2e_install.gif" style="width:100%" />
+
 <!--
 [![](https://img.shields.io/badge/Start-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Show-{&Uuml;bersicht}-grren?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)&nbsp;&nbsp;&nbsp;
@@ -54,9 +56,6 @@ https://img.shields.io/badge/Open-Webapp-blue
 `yarn`
 
 `npm run serve`
-
-
-<img src="./docs/nt2e_install.gif" style="width:70%" />
 
 ---
 
