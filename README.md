@@ -1,11 +1,25 @@
-<!--p><a href="#" onclick="open('http://www.google.com')">google search</a></p-->
-<!--a href="https://7pub.github.io/timeroll/index.html"><img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge"/-->
-<!--[![](https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge)](https://github.com/7pub/timeroll/)&nbsp;&nbsp;&nbsp;-->
 <!--
+[![](https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge)](https://github.com/7pub/timeroll/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Start-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Show-{&Uuml;bersicht}-grren?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)&nbsp;&nbsp;&nbsp;
 [![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
+
+<p align = "right">
+  <a href="https://7pub.github.io/timeroll/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
+</p>
+<p>
+ <a href="#" onclick="open('http://www.google.com')">google search</a>
+</p>
+<a href="https://7pub.github.io/timeroll/index.html">
+ <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" />
+</a>
 -->
+
+<section align="right">
+
+[![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
+
+</section>
 
 <section align="right">
  <a href="https://7pub.github.io/timeroll/index.html">  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" /></a>
@@ -36,12 +50,6 @@ https://img.shields.io/badge/Open-Webapp-blue
 [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/)
 
 </section>
-
-<p align = "right">
-  <a href="https://7pub.github.io/timeroll/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
-</p>
-
-<hr/>
 
 ---
 
