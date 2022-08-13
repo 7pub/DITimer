@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
 -
 
-<table>. <sub>Download wird gestartet und in ein neues, gleichnamiges Verzeichniss kopiert.</sub><th><i>Step 1.</i><td><b>git clone https://7pub.github.io/DITimer.git<b></td></th></table>
+<table>. <sub>Download wird gestartet und in ein neues, gleichnamiges Verzeichniss kopiert.</sub><th><i>Step 1.</i><td><b>git&nbsp;clone&nbsp;https://7pub.github.io/DITimer.git<b></td></th></table>
 <table>. <sub>In des Verzeichniss wechseln</sub><th><i>Step 2.</i><td><b>cd DITimer<b></td></th></table>
 <table>. <sub>Werkzeugkasten bereitstellen</sub><th><i>Step 3.</i><td><b>npm i gulp@4.0.0 --save-dev<b></td></th></table>
 <table>. <sub>Module installiert</sub><th><i>Step 4.</i><td><b>yarn<b></td></th></table>
