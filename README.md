@@ -3,16 +3,16 @@ https://img.shields.io/badge/Open-Webapp-blue
 -->
 <!--
 <section align="right">
- <a href="https://7pub.github.io/timeroll/index.html">  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" /></a>
+ <a href="https://7pub.github.io/DITimer/index.html">  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" /></a>
 </section>
 
 <p align = "right">
-  <a href="https://7pub.github.io/timeroll/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
+  <a href="https://7pub.github.io/DITimer/app/"><img src="https://img.shields.io/badge/Open-Webapp-blue"/>
 </p>
 <p>
  <a href="#" onclick="open('http://www.google.com')">google search</a>
 </p>
-<a href="https://7pub.github.io/timeroll/index.html">
+<a href="https://7pub.github.io/DITimer/index.html">
  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" />
 </a>
 -->
@@ -33,7 +33,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 -->
 <section align="right">
   
-  # [![](https://img.shields.io/badge/App-starten-524077?style=for-the-badge&logo=showtime&logoColor=000000)](https://7pub.github.io/timeroll/app/) [![](https://img.shields.io/badge/App-Website-ABC483?style=for-the-badge&logo=html5&logoColor=000000)](https://7pub.github.io/timeroll/app/index.html) [![](https://img.shields.io/badge/App-Docker-blue?style=for-the-badge&logo=docker&logoColor=000000)](https://github.com/7pub/timeroll/tree/main/docker/) [![](https://img.shields.io/badge/Profile&nbsp;-D5D5D5?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/7pub/)
+  # [![](https://img.shields.io/badge/App-starten-524077?style=for-the-badge&logo=showtime&logoColor=000000)](https://7pub.github.io/DITimer/app/) [![](https://img.shields.io/badge/App-Website-ABC483?style=for-the-badge&logo=html5&logoColor=000000)](https://7pub.github.io/DITimer/app/index.html) [![](https://img.shields.io/badge/App-Docker-blue?style=for-the-badge&logo=docker&logoColor=000000)](https://github.com/7pub/DITimer/tree/main/docker/) [![](https://img.shields.io/badge/Profile&nbsp;-D5D5D5?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/7pub/)
 </section>
 
 <p align = "right">
@@ -44,7 +44,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 ## [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
 
-_Step 1._ `git clone https://7pub.github.io/notime2explain.git`<br>
+_Step 1._ `git clone https://7pub.github.io/DITimer.git`<br>
 _Step 2._ `cd notime2explain`<br>
 _Step 3._ `npm i gulp@4.0.0 --save-dev`<br>
 _Step 4._ `yarn`<br>
