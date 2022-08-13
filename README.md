@@ -8,9 +8,7 @@
 -->
 
 <section align="right">
- <a href="https://7pub.github.io/timeroll/index.html">
-  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" />
- </a>
+ <a href="https://7pub.github.io/timeroll/index.html">  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" /></a>
 </section>
 
 <p align = "right">
