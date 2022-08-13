@@ -47,7 +47,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 ---
 
-<section align="right">  [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/) </section>
+<section align="right"> [![](https://img.shields.io/badge/Open-Application-lightgrey?style=for-the-badge)](https://7pub.github.io/timeroll/app/) </section>
 
 ## Install
 
