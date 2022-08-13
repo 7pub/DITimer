@@ -42,7 +42,7 @@ https://img.shields.io/badge/Open-Webapp-blue
 
 [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
 
-_Step 1._<table><th>td>`git clone https://7pub.github.io/DITimer.git`</td></th></tablbe><br>
+_Step 1._<table><th>td> `git clone https://7pub.github.io/DITimer.git` </td></th></tablbe><br>
 _Step 2._ `cd notime2explain`<br>
 _Step 3._ `npm i gulp@4.0.0 --save-dev`<br>
 _Step 4._ `yarn`<br>
