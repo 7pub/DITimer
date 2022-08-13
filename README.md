@@ -9,14 +9,17 @@
 
 [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
 
-<table>
- <th><i>Step 1.</i><td><b>git clone https://7pub.github.io/DITimer.git<b></td></th>
-</table>
-<br>
-_Step 2._ `cd notime2explain`<br>
-_Step 3._ `npm i gulp@4.0.0 --save-dev`<br>
-_Step 4._ `yarn`<br>
-_Step 5._ `npm run serve`<br>
+<table><th><i></i><td></td></th></table>
+<sub>Download wird gestartet und in ein neues, gleichnamiges Verzeichniss kopiert.</sub>
+<table><th><i>Step 1.</i><td><b>git clone https://7pub.github.io/DITimer.git<b></td></th></table>
+<sub>In des Verzeichniss wechseln</sub>
+<table><th><i>Step 2.</i><td><b>cd DITimer<b></td></th></table>
+<sub>Werkzeugkasten bereitstellen</sub>
+<table><th><i>Step 3.</i><td><b>npm i gulp@4.0.0 --save-dev<b></td></th></table>
+<sub>Es werden die zugehörigen Module installiert</sub>
+<table><th><i>Step 4.</i><td><b>yarn<b></td></th></table>
+<sub>Startet eine Entwicklungsumgebung</sub>
+<table><th><i>Step 5.</i><td><b>npm run serve<b></td></th></table>
 
 ---
 
