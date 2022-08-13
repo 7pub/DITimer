@@ -1,21 +1,22 @@
 <!--p><a href="#" onclick="open('http://www.google.com')">google search</a></p-->
 <!--a href="https://7pub.github.io/timeroll/index.html"><img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge"/-->
 <!--[![](https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge)](https://github.com/7pub/timeroll/)&nbsp;&nbsp;&nbsp;-->
-<p align = "right">
-<section align="right">
- <a href="https://7pub.github.io/timeroll/index.html"><img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge"/>
-</section>
- </p>
-
-<img src="./docs/nt2e_install.gif" style="width:100%" />
-
 <!--
 [![](https://img.shields.io/badge/Start-Webapp-lightblue?style=for-the-badge)](https://7pub.github.io/timeroll/app/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Show-{&Uuml;bersicht}-grren?style=for-the-badge)](https://7pub.github.io/timeroll/index.html)&nbsp;&nbsp;&nbsp;
 [![](https://7pub.github.io/timeroll/docs/NoTimeToExplain.gif)](https://7pub.github.io/timeroll/timeroll/app/)
 -->
 
+<section align="right">
+ <a href="https://7pub.github.io/timeroll/index.html">
+  <img src="https://img.shields.io/badge/This.-{Repospository}-F1F1F1?style=for-the-badge" />
+ </a>
+</section>
+<p align = "right">
+ <img src="./docs/nt2e_install.gif" style="width:100%" />
+</p>
 
+https://img.shields.io/badge/Open-Webapp-blue
 
 
 <section align="right">
@@ -40,8 +41,6 @@
 </p>
 
 <hr/>
-
-https://img.shields.io/badge/Open-Webapp-blue
 
 ---
 
