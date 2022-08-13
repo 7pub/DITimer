@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Time Timer</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta name="theme-color" content="#292929" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="icon" href="graphics/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <script src="bundle.js" defer></script>
+  </head>
+
+  <body>
+    <div id="timerContainer">
+      <div id="timerDiskHole"></div>
+      <div id="timerDisk"></div>
+      <div id="timerGroundEnd"></div>
+      <div id="timerBarEnd"></div>
+      <div id="timerBarKnob"></div>
+      <div id="timerTime"></div>
+    </div>
+    <div id="optionButtons">
+      <div id="timerDirection">
+        <img src="graphics/countdown.svg" />
+      </div>
+      <div id="timerAlarmSelector" class="dropdown">
+        <img src="graphics/alarm.svg" />
+        <div class="dropdown-content">
+          <a onclick="setTimerAlarmSound('digital')" href="#">Digital</a>
+          <a onclick="setTimerAlarmSound('soft')" href="#">Soft</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
