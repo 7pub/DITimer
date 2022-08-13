@@ -5,21 +5,14 @@
 
 <img src="./docs/nt2e_install.gif" style="width:100%" />
 
-#
-
 [![](https://img.shields.io/badge/StepByStep-Install-9B850C?style=for-the-badge)](#)
+-
 
-<table><th><i></i><td></td></th></table>
-<sub>Download wird gestartet und in ein neues, gleichnamiges Verzeichniss kopiert.</sub>
-<table><th><i>Step 1.</i><td><b>git clone https://7pub.github.io/DITimer.git<b></td></th></table>
-<sub>In des Verzeichniss wechseln</sub>
-<table><th><i>Step 2.</i><td><b>cd DITimer<b></td></th></table>
-<sub>Werkzeugkasten bereitstellen</sub>
-<table><th><i>Step 3.</i><td><b>npm i gulp@4.0.0 --save-dev<b></td></th></table>
-<sub>Es werden die zugehörigen Module installiert</sub>
-<table><th><i>Step 4.</i><td><b>yarn<b></td></th></table>
-<sub>Startet eine Entwicklungsumgebung</sub>
-<table><th><i>Step 5.</i><td><b>npm run serve<b></td></th></table>
+<table>. <sub>Download wird gestartet und in ein neues, gleichnamiges Verzeichniss kopiert.</sub><th><i>Step 1.</i><td><b>git clone https://7pub.github.io/DITimer.git<b></td></th></table>
+<table>. <sub>In des Verzeichniss wechseln</sub><th><i>Step 2.</i><td><b>cd DITimer<b></td></th></table>
+<table>. <sub>Werkzeugkasten bereitstellen</sub><th><i>Step 3.</i><td><b>npm i gulp@4.0.0 --save-dev<b></td></th></table>
+<table>. <sub>Module installiert</sub><th><i>Step 4.</i><td><b>yarn<b></td></th></table>
+<table>. <sub>Startet eine Entwicklungsumgebung</sub><th><i>Step 5.</i><td><b>npm run serve<b></td></th></table>
 
 ---
 
