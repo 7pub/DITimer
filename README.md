@@ -1,3 +1,7 @@
+|- -|
+|-|
+| ![default](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default) |
+| ![default](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default) |
 <section align="right">
   
 # [![](https://img.shields.io/badge/App-starten-524077?style=for-the-badge&logo=showtime&logoColor=000000)](https://7pub.github.io/DITimer/app/) [![](https://img.shields.io/badge/App-Website-ABC483?style=for-the-badge&logo=html5&logoColor=000000)](https://7pub.github.io/DITimer/app/index.html) [![](https://img.shields.io/badge/App-Docker-blue?style=for-the-badge&logo=docker&logoColor=000000)](https://github.com/7pub/DITimer/tree/main/docker/) [![](https://img.shields.io/badge/Profile&nbsp;-D5D5D5?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/7pub/)
